@@ -1,0 +1,6 @@
+Uniform cost Algorithm:
+https://algorithmicthoughts.wordpress.com/2012/12/15/artificial-intelligence-uniform-cost-searchucs/
+Cover picture:
+https://en.wikipedia.org/wiki/A*_search_algorithm#/media/File:Astar_progress_animation.gif
+Subhrajit Bhattacharya
+13 April 2011
